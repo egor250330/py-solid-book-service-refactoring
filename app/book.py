@@ -1,4 +1,8 @@
-from app.serializers import DisplayInterface, PrintBookInterface, SerializeInterface
+from app.serializers import (
+    DisplayInterface,
+    PrintBookInterface,
+    SerializeInterface
+)
 
 
 class Book:
