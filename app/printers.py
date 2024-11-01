@@ -1,4 +1,4 @@
-from serializers import PrintBookInterface
+from app.serializers import PrintBookInterface
 
 
 class ConsolePrinter(PrintBookInterface):

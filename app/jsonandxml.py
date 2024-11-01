@@ -1,6 +1,6 @@
 import json
 import xml.etree.ElementTree
-from serializers import SerializeInterface
+from app.serializers import SerializeInterface
 
 
 class JsonSerializer(SerializeInterface):

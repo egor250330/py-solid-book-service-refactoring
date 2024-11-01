@@ -1,4 +1,4 @@
-from serializers import DisplayInterface
+from app.serializers import DisplayInterface
 
 
 class ConsoleDisplay(DisplayInterface):
